@@ -64,6 +64,26 @@ MacBook-Pro:~ jaswang$ aws ec2 describe-instances
 }
 ```
 
+## Step 2 Configure Kurbenetes Cluster Assets via kube-aws tool
+
+Now in this step, we will configure Kurbenetes Cluster Assets using kube-aws on the MacPro laptop. The kube-aws tool needs several AWS resources to configure K8S cluster aseets. So we will create those AWS resources beforehand. 
+
+### Configure AWS Resources
+
+For kube-aws tool to configure K8S cluster assets, the following 4 AWS resources are needed. 
+
+  EC2 Key Pairs
+  KMS Key
+  External DNS Name
+  S3 Bucket
+  
+We will configure those AWS resources one by one.
+
+#### Create AWS EC2 Key Pair
+
+AWS Elastic Compute Cloude (EC2) Key Pair 
+
+### 
 
 
 
