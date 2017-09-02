@@ -54,8 +54,8 @@ Now we need to configure AWS CLI tool with AWS credentials. First we need to cre
 Now we can configure the AWS CLI tool on the laptop with AWS credentials retrieved by the steps above: 
 ```
 MacBook-Pro:~ jaswang$ aws configure
-AWS Access Key ID [****************Y3UQ]: AKIAIMYZJGD42HX2NYDA
-AWS Secret Access Key [****************stjs]: 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
+AWS Access Key ID [****************Y3UQ]: AKIAIMxxxxxxxxxxxxx
+AWS Secret Access Key [****************stjs]: UcqT37txxxxxxxxxxxxxxxxxxxxxxxxxxx
 Default region name []: ap-southeast-2
 Default output format [json]: json
 ```
